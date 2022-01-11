@@ -112,20 +112,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 839;
-},
-{
-name = winDescent;
-value = 432;
-},
-{
 name = hheaAscender;
 value = 650;
 },
 {
 name = hheaDescender;
 value = -425;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 839;
+},
+{
+name = winDescent;
+value = 432;
 },
 {
 name = strikeoutPosition;
@@ -205148,16 +205152,7 @@ width = 170;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Babylonica Regular";
-},
-{
-name = postscriptFontName;
-value = "Babylonica-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "CEC22451-E077-4EEF-AFCC-39814AFC6AC9" = 1;
 };
