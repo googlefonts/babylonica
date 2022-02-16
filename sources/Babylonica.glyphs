@@ -1,7 +1,8 @@
 {
-.appVersion = "3112";
+.appVersion = "1352";
 DisplayStrings = (
-"nnn.¡.nnn/space nnn.?.nnn/space nnn.¿.nnn/space nnn.nnn.[.nnn/space nnn.].nnn/space nnn.-.nnn/space nnn.».nnn/space nnn.l.nnn/space nnn.«.nnn/space nnn...nnn/space nnn./quoteleft .nnn/space nnn.º.nnn/space nnn.°.nnn/space nnn./dagger .nnn/space nnn./trademark .nnn\012nnn/quoteleft */quoteleft nnn/space nnn/quoteleft :/quoteleft nnn/space nnn/quoteleft !/quoteleft nnn/space nnn/quoteleft ¡/quoteleft nnn/space nnn/quoteleft ?/quoteleft nnn/space nnn/quoteleft ¿/quoteleft nnn/space nnn/quoteleft nnn/quoteleft [/quoteleft nnn/space nnn/quoteleft ]/quoteleft nnn/space nnn/quoteleft -/quoteleft nnn/space nnn/quoteleft »/quoteleft nnn/space nnn/quoteleft l/quoteleft nnn/space nnn/quoteleft «/quoteleft nnn/space nnn/quoteleft ./quoteleft nnn/space nnn/quoteleft/quoteleft/quoteleft nnn/space nnn/quoteleft º/quoteleft nnn/space nnn/quoteleft °/quoteleft nnn/space nnn/quoteleft/dagger/quoteleft nnn/space nnn/quoteleft/trademark/quoteleft nnn\012nnn/quoteright */quoteright nnn/space nnn/quoteright :/quoteright nnn/space nnn/quoteright !/quoteright nnn/space nnn/quoteright ¡/quoteright nnn/space nnn/quoteright ?/quoteright nnn/space nnn/quoteright ¿/quoteright nnn/space nnn/quoteright nnn/quoteright [/quoteright nnn/space nnn/quoteright ]/quoteright nnn/space nnn/quoteright -/quoteright nnn/space nnn/quoteright »/quoteright nnn/space nnn/quoteright l/quoteright nnn/space nnn/quoteright «/quoteright nnn/space nnn/quoteright ./quoteright nnn/space nnn/quoteright/quoteleft/quoteright nnn/space nnn/quoteright º/quoteright nnn/space nnn/quoteright °/quoteright nnn/space nnn/quoteright/dagger/quoteright nnn/space nnn/quoteright/trademark/quoteright nnn\012nnnº*ºnnn/space nnnº:ºnnn/space nnnº!ºnnn/space nnnº¡ºnnn/space nnnº?ºnnn/space nnnº¿ºnnn/space nnnºnnnº[ºnnn/space nnnº]ºnnn/space nnnº-ºnnn/space nnnº»ºnnn/space nnnºlºnnn/space nnnº«ºnnn/space nnnº.ºnnn/space nnnº/quoteleft ºnnn/space nnnºººnnn/space nnnº°ºnnn/space nnnº/dagger ºnnn/space nnnº/trademark ºnnn\012nnn°*°nnn/space nnn°:°nnn/space nnn°!°nnn/space nnn°¡°nnn/space nnn°?°nnn/space nnn°¿°nnn/space nnn°nnn°[°nnn/space nnn°]°nnn/space nnn°-°nnn/space nnn°»°nnn/space nnn°l°nnn/space nnn°«°nnn/space nnn°.°nnn/space nnn°/quoteleft °nnn/space nnn°º°nnn/space nnn°°°nnn/space nnn°/dagger °nnn/space nnn°/trademark °nnn\012nnn/dagger */dagger nnn/space nnn/dagger :/dagger nnn/space nnn/dagger !/dagger nnn/space nnn/dagger ¡/dagger nnn/space nnn/dagger ?/dagger nnn/space nnn/dagger ¿/dagger nnn/space nnn/dagger nnn/dagger [/dagger nnn/space"
+"email@my/space nnn.¡.nnn/space nnn.?.nnn/space nnn.¿.nnn/space nnn.nnn.[.nnn/space nnn.].nnn/space nnn.-.nnn/space nnn.».nnn/space nnn.l.nnn/space nnn.«.nnn/space nnn...nnn/space nnn./quoteleft .nnn/space nnn.º.nnn/space nnn.°.nnn/space nnn./dagger .nnn/space nnn./trademark .nnn\012nnn/quoteleft */quoteleft nnn/space nnn/quoteleft :/quoteleft nnn/space nnn/quoteleft !/quoteleft nnn/space nnn/quoteleft ¡/quoteleft nnn/space nnn/quoteleft ?/quoteleft nnn/space nnn/quoteleft ¿/quoteleft nnn/space nnn/quoteleft nnn/quoteleft [/quoteleft nnn/space nnn/quoteleft ]/quoteleft nnn/space nnn/quoteleft -/quoteleft nnn/space nnn/quoteleft »/quoteleft nnn/space nnn/quoteleft l/quoteleft nnn/space nnn/quoteleft «/quoteleft nnn/space nnn/quoteleft ./quoteleft nnn/space nnn/quoteleft/quoteleft/quoteleft nnn/space nnn/quoteleft º/quoteleft nnn/space nnn/quoteleft °/quoteleft nnn/space nnn/quoteleft/dagger/quoteleft nnn/space nnn/quoteleft/trademark/quoteleft nnn\012nnn/quoteright */quoteright nnn/space nnn/quoteright :/quoteright nnn/space nnn/quoteright !/quoteright nnn/space nnn/quoteright ¡/quoteright nnn/space nnn/quoteright ?/quoteright nnn/space nnn/quoteright ¿/quoteright nnn/space nnn/quoteright nnn/quoteright [/quoteright nnn/space nnn/quoteright ]/quoteright nnn/space nnn/quoteright -/quoteright nnn/space nnn/quoteright »/quoteright nnn/space nnn/quoteright l/quoteright nnn/space nnn/quoteright «/quoteright nnn/space nnn/quoteright ./quoteright nnn/space nnn/quoteright/quoteleft/quoteright nnn/space nnn/quoteright º/quoteright nnn/space nnn/quoteright °/quoteright nnn/space nnn/quoteright/dagger/quoteright nnn/space nnn/quoteright/trademark/quoteright nnn\012nnnº*ºnnn/space nnnº:ºnnn/space nnnº!ºnnn/space nnnº¡ºnnn/space nnnº?ºnnn/space nnnº¿ºnnn/space nnnºnnnº[ºnnn/space nnnº]ºnnn/space nnnº-ºnnn/space nnnº»ºnnn/space nnnºlºnnn/space nnnº«ºnnn/space nnnº.ºnnn/space nnnº/quoteleft ºnnn/space nnnºººnnn/space nnnº°ºnnn/space nnnº/dagger ºnnn/space nnnº/trademark ºnnn\012nnn°*°nnn/space nnn°:°nnn/space nnn°!°nnn/space nnn°¡°nnn/space nnn°?°nnn/space nnn°¿°nnn/space nnn°nnn°[°nnn/space nnn°]°nnn/space nnn°-°nnn/space nnn°»°nnn/space nnn°l°nnn/space nnn°«°nnn/space nnn°.°nnn/space nnn°/quoteleft °nnn/space nnn°º°nnn/space nnn°°°nnn/space nnn°/dagger °nnn/space nnn°/trademark °nnn\012nnn/dagger */dagger nnn/space nnn/dagger :/dagger nnn/space nnn/dagger !/dagger nnn/space nnn/dagger ¡/dagger nnn/space nnn/dagger ?/dagger nnn/space nnn/dagger ¿/dagger nnn/space nnn/dagger nnn/dagger [/dagger nnn/space",
+"HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120123547507647989/nbspace \012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012"
 );
 classes = (
 {
@@ -46,19 +47,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = GOOG;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-},
-{
-Name = Width;
-Tag = wdth;
-}
-);
 }
 );
 date = "2022-01-11 01:23:31 +0000";
@@ -289,7 +277,7 @@ nodes = (
 width = 437;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = CR;
@@ -156117,5 +156105,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
